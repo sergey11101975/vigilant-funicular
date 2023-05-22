@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\артем\c# exe\bin\Debug\net6.0\c# exe.exe
+C:\Users\User\Desktop\артем\c# exe\bin\Debug\net6.0\c# exe.deps.json
+C:\Users\User\Desktop\артем\c# exe\bin\Debug\net6.0\c# exe.runtimeconfig.json
+C:\Users\User\Desktop\артем\c# exe\bin\Debug\net6.0\c# exe.dll
+C:\Users\User\Desktop\артем\c# exe\bin\Debug\net6.0\c# exe.pdb
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.AssemblyInfo.cs
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.dll
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\refint\c# exe.dll
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.pdb
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\c# exe.genruntimeconfig.cache
+C:\Users\User\Desktop\артем\c# exe\obj\Debug\net6.0\ref\c# exe.dll
